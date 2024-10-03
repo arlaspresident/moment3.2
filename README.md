@@ -1,6 +1,6 @@
 # Moment 3
 ## Beskrivning av uppgiften
-Detta är en kort introduktion av ==moment 3== i introduktion till programmering i JavaScript. Här följer en lista med allt som behöver göras för **godkänt**:
+Detta är en kort introduktion av **moment 3** i introduktion till programmering i JavaScript. Här följer en lista med allt som behöver göras för **godkänt**:
 1. Skapa Github-konto och repo med en README-fil:
     - skapa ett konto på github
     - skapa ett nytt remote repository
